@@ -33578,7 +33578,7 @@ Object.defineProperty(__webpack_exports__, "__esModule", { value: true });
 var _WINDOW = {};
 try {
   if (typeof window !== 'undefined') _WINDOW = window;
-
+  
 } catch (e) {}
 
 var _ref = _WINDOW.navigator || {};
@@ -35082,7 +35082,7 @@ Object.defineProperty(__webpack_exports__, "__esModule", { value: true });
 var _WINDOW = {};
 try {
   if (typeof window !== 'undefined') _WINDOW = window;
-
+  
 } catch (e) {}
 
 var _ref = _WINDOW.navigator || {};
@@ -35814,7 +35814,7 @@ Object.defineProperty(__webpack_exports__, "__esModule", { value: true });
 var _WINDOW = {};
 try {
   if (typeof window !== 'undefined') _WINDOW = window;
-
+  
 } catch (e) {}
 
 var _ref = _WINDOW.navigator || {};
